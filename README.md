@@ -1,6 +1,6 @@
 # webpack-starter
 
-First intall webpack dependency :
+First install webpack dependency :
 
 ```npm i -D webpack```
 
